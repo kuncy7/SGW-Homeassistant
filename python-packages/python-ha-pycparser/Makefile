@@ -31,6 +31,7 @@ define Package/python3-ha-pycparser
   URL:=https://github.com/eliben/pycparser
   DEPENDS:= \
       +python3-light \
+      +python3-pycparser \
       +python3-ha-ply
 endef
 
