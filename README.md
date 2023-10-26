@@ -14,7 +14,7 @@ See [LICENSE](LICENSE) file.
 
 Add the following line to feeds.conf or feeds.conf.default.
 ```
-src-git homeassistant https://github.com/lmahmutov/SGW-Homeassistant.git
+src-git homeassistant https://github.com/kuncy7/SGW-Homeassistant.git
 ```
 
 Run
