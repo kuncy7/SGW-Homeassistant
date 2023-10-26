@@ -26,7 +26,9 @@ define Package/python3-ha-docutils
   SUBMENU:=Python packages
   TITLE:=docutils
   URL:=http://docutils.sourceforge.net
-  DEPENDS:=+python3
+  DEPENDS:=+python3 \
+  +python3-distutils \
+  +python3-docutils
 endef
 
 define Package/python3-ha-docutils/description
